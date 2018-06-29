@@ -6,7 +6,7 @@
 #require_relative '../lib/simple_collection/patterns'
 #require_relative '../lib/simple_collection/scraper'
 
-require_relative '../simple_collection'
+require_relative '../lib/simple_collection'
 
 #binding.pry
 CLI.new.call
